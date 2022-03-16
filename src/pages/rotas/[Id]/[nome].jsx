@@ -1,6 +1,6 @@
 import { useRouter } from "next/router"
 import Link from "next/link"
-export default function nome_id(){
+export default function Nome_id(){
   const router = useRouter()
   const id = router.query.Id
   const nome = router.query.nome

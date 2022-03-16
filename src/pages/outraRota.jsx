@@ -1,4 +1,4 @@
-export default function outra_rotas(){
+export default function Outra_rotas(){
   return (
 
     <div>
